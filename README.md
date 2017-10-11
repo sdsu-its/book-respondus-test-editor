@@ -1,3 +1,14 @@
-# My Awesome Book
+# Respondus Test Editor Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#### What You Will Learn:
+
+1. Create a test in Word and format it correctly
+2. Import the test into Respondus and edit the test
+3. Publish the test on Blackboard
+4. Download a Blackboard test into Respondus
+5. Export a Respondus test as a Word document
+
+
+
+
+
