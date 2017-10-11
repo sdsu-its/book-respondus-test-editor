@@ -1,12 +1,13 @@
 # Respondus Test Editor Guide
 
-#### What You Will Learn:
+### What You Will Learn:
 
-1. Create a test in Word and format it correctly
-2. Import the test into Respondus and edit the test
-3. Publish the test on Blackboard
-4. Download a Blackboard test into Respondus
-5. Export a Respondus test as a Word document
+1. Get Respondus for Facutly
+2. Create and Format the Test in Word
+3. Import the Test into Respondus
+4. Preview and Edit the Test in Respondus
+5. Publish the Test to Blackboard
+6. Other Helpful Procedures 
 
 
 
