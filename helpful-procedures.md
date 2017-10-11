@@ -34,8 +34,6 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 14. Select **OK**. You should now be able to see your course list by pressing the drop-down menu next to “Choose Course”.
 
-
-
 ### Export a Respondus Test as a Word Document
 
 1. Click the** Preview and Publish** tab
@@ -52,8 +50,6 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 7. Click **Save to File**
 
-
-
 ### Print a Respondus Test
 
 1. Click the **Preview and Publish **tab
@@ -69,8 +65,6 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 6. Click **Print Preview** to preview the test
 
 7. Click **Save** to File or **Send** to Printer
-
-
 
 ### Download a Blackboard Test into Respondus
 
@@ -90,7 +84,7 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 8. Wait for the program to export the test and click **OK** when the "File Saved" message appears
 
-9. 9. Click **Finish**
+9. Click **Finish**
 
 
 
