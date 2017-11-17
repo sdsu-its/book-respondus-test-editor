@@ -1,6 +1,6 @@
 # Create and Format the Test in Word
 
-Word is the most commonly used application for Respondus, however, Respondus will also accept text \(.txt\) and rich text format \(.rtf\) files from other applications.
+Word is the most commonly used application for Respondus, however, Respondus will also accept text (`.txt`) and rich text format (`.rtf`) files from other applications.
 
 ### Basic Formatting
 
@@ -27,78 +27,80 @@ Word is the most commonly used application for Respondus, however, Respondus wil
 **Multiple Choice**
 
 This is the default question type so you don’t need to add the “TYPE”.
-
+```
 1. Who determined the exact speed of light? 
 
 a. Albert Einstein  
-\*b. Albert Michelson  
+*b. Albert Michelson  
 c. Thomas Edison
-
+```
 **True / False**
 
 If the True answer is typed first you don’t need to add the “TYPE”. If not, it defaults to Multiple Choice. True/False questions can use answer choices “True” or “T” and “False” or “F.”
-
-2\) Albert Michelson determined the exact speed of light?  
- \*a. True  
+```
+2) Albert Michelson determined the exact speed of light?  
+ *a. True  
  b. False
+```
 
 **Multiple Answers**
-
+```
 Type: MA
 
 3. Which of the following individuals are credited with determining the exact speed of light?  
  a. Albert Einstein  
- \*b. Albert Michelson
-
+ *b. Albert Michelson
  c. Thomas Edison  
- \*d. Edward Williams Morley
-
+ *d. Edward Williams Morley
+```
 **Essay**
+```
+Type: E (No correct answers are needed for essay type questions. Providing an answer is optional.)
 
-Type: E\(No correct answers are needed for essay type questions. Providing an answer is optional.\)
-
-4\) How is the Michelson-Morely experiment related to Albert Einstein’s theory of relativity?
+4) How is the Michelson-Morely experiment related to Albert Einstein’s theory of relativity?
+```
 
 **Jumbled Sentence**
+```
+Type: JUM(words to jumble are in brackets)  
+5. [Dream] as if you’ll [live forever], [live] as if you’ll
 
-Type: JUM\(words to jumble are in brackets\)  
-5. \[Dream\] as if you’ll \[live forever\], \[live\] as if you’ll
-
-\[die tomorrow\].
-
+[die tomorrow].
+```
 **Fill in the Blank**
+```
+Type: F (only one correct answer per question, but multiple forms of that answer can be provided)
 
-Type: F\(only one correct answer per question, but multiple forms of that answer can be provided\)
-
-6\) \_\_\_\_\_\_\_\_ is known as the "father of television". a. Zworykin  
+6) ________ is known as the "father of television". 
+ a. Zworykin  
  b. Vladimir Zworykin  
  c. Vladimir Kosma Zworykin
-
+```
 **Matching**
-
-Type: MT\(spaces before and after the equal sign are optional\)
+```
+Type: MT (spaces before and after the equal sign are optional)
 
 7. Match the correct name to the discovery or theory.  
  a. Michelson-Morely = Speed of light  
  b. Einstein = Theory of Relativity
-
-c. Marconi = radio waves
-
+ c. Marconi = radio waves
+```
 **Ordering Questions**
+```
+Type: ORD(answers must be in correct order)
 
-Type: ORD\(answers must be in correct order\)
-
-8\) Put the following presidents into chronological order of service:  
+8) Put the following presidents into chronological order of service:  
  a. George Washington  
  b. John Adams
-
-c. Thomas Jefferson d. James Monroe
-
+ c. Thomas Jefferson d. James Monroe
+```
 **Images with Questions**
 
-Images embedded in Word will import automatically into Respondus. Images can also be inserted manually into text files by using specific formatting. Images must be gif, jpg, or jpeg formats. Place the following tag where the image should appear: \[img: “filename.jpg”\] using the actual name of the file in place of filename.jpg. You can even add ADA- compliant text for students using screen readers by placing text within quotes right after the filename.
+Images embedded in Word will import automatically into Respondus. Images can also be inserted manually into text files by using specific formatting. Images must be gif, jpg, or jpeg formats. Place the following tag where the image should appear: `[img: “filename.jpg”]` using the actual name of the file in place of filename.jpg. You can even add ADA-compliant text for students using screen readers by placing text within quotes right after the filename.
 
-\[img: “stonehenge.jpg” “Picture of Stonehenge”\]
+```
+[img: “stonehenge.jpg” “Picture of Stonehenge”]
+```
 
 
 
