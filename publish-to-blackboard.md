@@ -1,6 +1,6 @@
 # Publish the Test to Blackboard
 
-NOTE: If you are NOT using Respondus in SDSU’s FIT Center, please connect Respondus to the Blackboard server prior to completing this procedure.
+>NOTE: If you are NOT using Respondus in SDSU’s FIT Center, please connect Respondus to the Blackboard server prior to completing this procedure.
 
 In this final step, you will connect to Blackboard by selecting the server and entering your Blackboard username and password.
 
@@ -20,15 +20,17 @@ In this final step, you will connect to Blackboard by selecting the server and e
 
 8. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
 
+![](/assets/chossecourse.png)
+
 9. Deselect all additional options if you are not using Random Blocks.
 
 10. Click **Next**.
 
 11. Wait for the message, “Completed successfully” to appear
 
-12. Click **Finish **and close Respondus
+![](/assets/success.png)
 
-![](/assets/chossecourse.png)![](/assets/success.png)
+12. Click **Finish **and close Respondus
 
 #### Now What?
 
