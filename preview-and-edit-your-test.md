@@ -6,7 +6,9 @@ Preview allows you to check question wording and answers. You can correct errors
 
 1. Click the **Preview** **&** **Publish** tab
 
-2. Click on **Preview** **the** **File  **![](/assets/preview.png)
+2. Click on **Preview** **the** **File  **
+
+![](/assets/preview.png)
 
 3. Click **Next** to cycle through the questions. This view is similar to how the assessment  
     will appear in Blackboard. 
