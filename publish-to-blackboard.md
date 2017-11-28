@@ -4,11 +4,15 @@
 
 In this final step, you will connect to Blackboard by selecting the server and entering your Blackboard username and password.
 
-1. Click the **Preview** & **Publish** tab![](/assets/publish.png)
+1. Click the **Preview** & **Publish** tab
+
+![](/assets/publish.png)
 
 2. Click **Publish** **to** **Blackboard**
 
-3. Click **Publish** **Wizard**![](/assets/publishWizard.png)
+3. Click **Publish** **Wizard**
+
+![](/assets/publishWizard.png)
 
 4. Choose Publish to single course
 
