@@ -1,7 +1,5 @@
 # Import the Test into Respondus
 
-Microsoft Word - Using\_Respondus\_Test\_Software.docx
-
 Once you have finished formatting your document, you can save and import it straight into Respondus.
 
 1. Launch Respondus
@@ -25,12 +23,6 @@ Once you have finished formatting your document, you can save and import it stra
 10. Check for warnings. Ignore duplicate question title warnings.
 
 11. Click **Finish**
-
-
-
-
-
-
 
 
 

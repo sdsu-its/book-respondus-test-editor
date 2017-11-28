@@ -1,8 +1,6 @@
 # Publish the Test to Blackboard
 
-Microsoft Word - Using\_Respondus\_Test\_Software.docx
-
-NOTE: If you are NOT using Respondus in SDSU’s FIT Center, pleaseConnect Respondus to the Blackboard Serverprior to completing this procedure.
+NOTE: If you are NOT using Respondus in SDSU’s FIT Center, please connect Respondus to the Blackboard server prior to completing this procedure.
 
 In this final step, you will connect to Blackboard by selecting the server and entering your Blackboard username and password.
 
@@ -32,25 +30,7 @@ In this final step, you will connect to Blackboard by selecting the server and e
 
 ![](/assets/chossecourse.png)![](/assets/success.png)
 
-
-
 #### Now What?
 
 Now you can deploy the test in Blackboard as you would with any Blackboard test or survey. Once published to Blackboard, the test resides in the Test manager \(Control Panel =&gt; Course Tools =&gt; Tests, Surveys and Pools\). You can edit the test or set your test options just like any other Blackboard test.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
