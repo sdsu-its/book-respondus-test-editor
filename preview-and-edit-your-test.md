@@ -17,11 +17,11 @@ Preview allows you to check question wording and answers. You can correct errors
    
 ![](/assets/modify.png)
 
-4. Click **Modify** **Item **to make changes. 
+4. Click **Modify** **Item **to make changes
 
 5. Save and return to preview remaining items
 
-6. Click **Close**
+6. Click **Close** when done
 
 
 
