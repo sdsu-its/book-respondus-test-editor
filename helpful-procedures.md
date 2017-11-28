@@ -2,7 +2,7 @@
 
 ### Connect Respondus to the Blackboard Server
 
-NOTE: If you are using Respondus in SDSU’s FIT Center, you do not need to complete this step.
+>NOTE: If you are using Respondus in SDSU’s FIT Center, you do not need to complete this step.
 
 The first time you use Respondus and publish to Blackboard, you will need to enter the settings that connects Respondus to the Blackboard Server at SDSU. Once you complete this process, you only need to click on the server name to publish Respondus files.
 
@@ -16,7 +16,7 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 5. Select No, I want to enter the settings manually
 
-6. Go to your browser and copy the Blackboard login URL \(the page where you enter your username and password\): [https://blackboard.sdsu.edu/](https://blackboard.sdsu.edu/)
+6. Go to your browser and copy the Blackboard login URL \(the page where you enter your username and password\): "[https://blackboard.sdsu.edu/](https://blackboard.sdsu.edu/)"
 
 7. Paste the login URL into Respondus \(box number 1\)
 
@@ -28,9 +28,9 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 11. Click **Extract** to have Respondus do the URL deciphering \(box number 3\)
 
-12. In the Description, enter Blackboard@SDSU
+12. In the Description, enter "Blackboard@SDSU"
 
-13. Type in your Blackboard UserName and Password to connect to Blackboard. \(Note: if you do not share your computer, you can click **Remember my UserName and Password** to retain the login information on your computer.
+13. Type in your Blackboard UserName and Password to connect to Blackboard. \(Note: if you do not share your computer, you can click **Remember my User Name and Password** to retain the login information on your computer.
 
 14. Select **OK**. You should now be able to see your course list by pressing the drop-down menu next to “Choose Course”.
 
