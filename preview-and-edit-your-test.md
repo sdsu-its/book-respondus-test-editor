@@ -10,18 +10,18 @@ Preview allows you to check question wording and answers. You can correct errors
 
 ![](/assets/previewTheFile.JPG)
 
-1. Click **Next** to cycle through the questions. This view is similar to how the assessment  
+3. Click **Next** to cycle through the questions. This view is similar to how the assessment  
     will appear in Blackboard. 
    * > NOTE: You randomize all answer choices for all questions! Click File =&gt; Preferences =&gt; Edit/Publish =&gt; Randomize.
    * > TIP: You can re-assign the location of your Respondus project folder under the "General" tab.
 
 ![](/assets/nextToCyle.JPG)
 
-1. Click **Modify** **Item **to make changes
+4. Click **Modify** **Item **to make changes
 
-2. Save and return to preview remaining items
+5. Save and return to preview remaining items
 
-3. Click **Close** when done
+6. Click **Close** when done
 
 
 
