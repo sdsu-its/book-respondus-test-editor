@@ -8,33 +8,33 @@ In this final step, you will connect to Blackboard by selecting the server and e
 
 ![](/assets/previewAndPublish.JPG)
 
-1. Click **Publish** **to** **Blackboard**
+2. Click **Publish** **to** **Blackboard**
 
-2. Click **Publish** **Wizard**
+3. Click **Publish** **Wizard**
 
 ![](/assets/publishWizard.JPG)
 
-1. Choose Publish to single course
+4. Choose Publish to single course
 
-2. Select the server \(Blackboard@SDSU\)
+5. Select the server \(Blackboard@SDSU\)
 
-3. Click **Next**
+6. Click **Next**
 
-4. Click the drop-down menu to choose the course.
+7. Click the drop-down menu to choose the course.
 
-5. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
+8. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
 
 ![](/assets/publishNoChecks.JPG)
 
-1. Deselect all additional options if you are not using Random Blocks.
+9. Deselect all additional options if you are not using Random Blocks.
 
-2. Click **Next**.
+10. Click **Next**.
 
-3. Wait for the message, “Completed successfully” to appear
+11. Wait for the message, “Completed successfully” to appear
 
 ![](/assets/completed.jpg)
 
-1. Click **Finish **and close Respondus
+12. Click **Finish **and close Respondus
 
 #### Now What?
 
