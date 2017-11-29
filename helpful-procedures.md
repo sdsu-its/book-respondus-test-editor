@@ -72,6 +72,8 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 2. Click **Retrieve Questions**
 
+![](/assets/retrieval.jpg)
+
 3. Make sure that the server is Blackboard@SDSU
 
 4. Click **Next**
@@ -86,7 +88,7 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 
 9. Click **Finish**
 
-![](/assets/retrieval.jpg)
+
 
 
 
