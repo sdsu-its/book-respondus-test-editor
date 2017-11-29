@@ -2,7 +2,7 @@
 
 ### Connect Respondus to the Blackboard Server
 
->NOTE: If you are using Respondus in SDSU’s FIT Center, you do not need to complete this step.
+> NOTE: If you are using Respondus in SDSU’s FIT Center, you do not need to complete this step.
 
 The first time you use Respondus and publish to Blackboard, you will need to enter the settings that connects Respondus to the Blackboard Server at SDSU. Once you complete this process, you only need to click on the server name to publish Respondus files.
 
@@ -85,6 +85,8 @@ The first time you use Respondus and publish to Blackboard, you will need to ent
 8. Wait for the program to export the test and click **OK** when the "File Saved" message appears
 
 9. Click **Finish**
+
+![](/assets/retrieval.jpg)
 
 
 

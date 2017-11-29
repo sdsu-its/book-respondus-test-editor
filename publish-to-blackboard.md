@@ -1,40 +1,40 @@
 # Publish the Test to Blackboard
 
->NOTE: If you are NOT using Respondus in SDSU’s FIT Center, please connect Respondus to the Blackboard server prior to completing this procedure.
+> NOTE: If you are NOT using Respondus in SDSU’s FIT Center, please connect Respondus to the Blackboard server prior to completing this procedure.
 
 In this final step, you will connect to Blackboard by selecting the server and entering your Blackboard username and password.
 
 1. Click the **Preview** & **Publish** tab
 
-![](/assets/publish.png)
+![](/assets/previewAndPublish.JPG)
 
-2. Click **Publish** **to** **Blackboard**
+1. Click **Publish** **to** **Blackboard**
 
-3. Click **Publish** **Wizard**
+2. Click **Publish** **Wizard**
 
-![](/assets/publishWizard.png)
+![](/assets/publishWizard.JPG)
 
-4. Choose Publish to single course
+1. Choose Publish to single course
 
-5. Select the server \(Blackboard@SDSU\)
+2. Select the server \(Blackboard@SDSU\)
 
-6. Click **Next**
+3. Click **Next**
 
-7. Click the drop-down menu to choose the course.
+4. Click the drop-down menu to choose the course.
 
-8. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
+5. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
 
-![](/assets/chossecourse.png)
+![](/assets/publishNoChecks.JPG)
 
-9. Deselect all additional options if you are not using Random Blocks.
+1. Deselect all additional options if you are not using Random Blocks.
 
-10. Click **Next**.
+2. Click **Next**.
 
-11. Wait for the message, “Completed successfully” to appear
+3. Wait for the message, “Completed successfully” to appear
 
-![](/assets/success.png)
+![](/assets/completed.jpg)
 
-12. Click **Finish **and close Respondus
+1. Click **Finish **and close Respondus
 
 #### Now What?
 

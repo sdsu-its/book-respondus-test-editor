@@ -4,7 +4,7 @@ Once you have finished formatting your document, you can save and import it stra
 
 1. Launch Respondus
 
-2. Click the **Start** tab![](/assets/start.png)
+2. Click the **Start** tab![](/assets/lauch.JPG)
 
 3. Click on **Import Questions**
 
@@ -18,7 +18,7 @@ Once you have finished formatting your document, you can save and import it stra
 
 8. Select **Exam** for “Type of file”
 
-9. Click **Preview**\(required\)![](/assets/import.png)
+9. Click **Preview**\(required\)![](/assets/preview.JPG)
 
 10. Check for warnings. Ignore duplicate question title warnings.
 
