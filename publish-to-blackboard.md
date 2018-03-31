@@ -1,4 +1,4 @@
-# Publish the Test to Blackboard
+# Publish to Blackboard
 
 > NOTE: If you are NOT using Respondus in SDSU’s FIT Center, please connect Respondus to the Blackboard server prior to completing this procedure.
 
@@ -6,37 +6,30 @@ In this final step, you will connect to Blackboard by selecting the server and e
 
 1. Click the **Preview** & **Publish** tab
 
-![](/assets/previewAndPublish.JPG)
+![](.gitbook/assets/previewandpublish.JPG)
 
-2. Click **Publish** **to** **Blackboard**
+1. Click **Publish** **to** **Blackboard**
+2. Click **Publish** **Wizard**
 
-3. Click **Publish** **Wizard**
+![](.gitbook/assets/publishwizard.JPG)
 
-![](/assets/publishWizard.JPG)
+1. Choose Publish to single course
+2. Select the server \(Blackboard@SDSU\)
+3. Click **Next**
+4. Click the drop-down menu to choose the course.
+5. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
 
-4. Choose Publish to single course
+![](.gitbook/assets/publishnochecks.JPG)
 
-5. Select the server \(Blackboard@SDSU\)
+1. Deselect all additional options if you are not using Random Blocks.
+2. Click **Next**.
+3. Wait for the message, “Completed successfully” to appear
 
-6. Click **Next**
+![](.gitbook/assets/completed.jpg)
 
-7. Click the drop-down menu to choose the course.
+1. Click **Finish **and close Respondus
 
-8. Verify the exam name. Change it if desired so that you will recognize it in Blackboard.
-
-![](/assets/publishNoChecks.JPG)
-
-9. Deselect all additional options if you are not using Random Blocks.
-
-10. Click **Next**.
-
-11. Wait for the message, “Completed successfully” to appear
-
-![](/assets/completed.jpg)
-
-12. Click **Finish **and close Respondus
-
-#### Now What?
+## Now What?
 
 Now you can deploy the test in Blackboard as you would with any Blackboard test or survey. Once published to Blackboard, the test resides in the Test manager \(Control Panel =&gt; Course Tools =&gt; Tests, Surveys and Pools\). You can edit the test or set your test options just like any other Blackboard test.
 
